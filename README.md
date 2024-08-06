@@ -48,3 +48,8 @@ alias
 ```scala
 packit
 ```
+Or escape back to your default shell with:
+
+```scala
+alacritty
+```
